@@ -1,0 +1,112 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[003] # Dark Forest
+Land,10
+    20,PURRLOIN,8,16
+    18,HOPPIP,8,16
+    18,STANTLER,8,16
+    18,WOOPER,8,16
+    17,STUNKY,8,16
+    16,CUBONE,8,16
+    16,HOUNDOUR,8,16
+    16,PHANPY,8,16
+    15,PIDGEY,8,16
+    15,SEEDOT,8,16
+    14,GLIGAR,8,16
+    14,SANDSHREW,8,16
+    14,ZUBAT,8,16
+    12,CACNEA,8,16
+    12,MURKROW,8,16
+    1,SNEASEL,8,16
+    1,ZORUA,8,16
+    12,PUMPKABOO,8,16 
+    12,MISDREAVUS,8,16   
+    12,DUSKULL,8,16      
+    12,SHROOMISH,8,16    
+    8,PHANTUMP,8,16
+    8,IMPIDIMP,8,16
+    1,ABRA,8,16         
+    1,LARVESTA,8,16     
+#-------------------------------
+[048] # Meadow
+Land,10
+    20,PIDGEY,3,8
+    20,SPEAROW,3,8
+    16,DIGLETT,3,8
+    14,POOCHYENA,3,8
+    13,ZIGZAGOON,3,8
+    5,RALTS,3,8
+    10,SKITTY,3,8
+    12,GULPIN,3,8
+    8,PATRAT,3,8
+    19,HOPPIP,3,8
+    18,ODDISH,3,8
+    18,SHROOMISH,3,8
+    18,SPINARAK,3,8
+    17,BELLSPROUT,3,8
+    16,SEEDOT,3,8
+    16,ZUBAT,3,8
+    15,CATERPIE,3,8
+    15,EKANS,3,8
+    14,LEDYBA,3,8
+    14,VENONAT,3,8
+    13,PARAS,3,8
+    13,SEWADDLE,3,8
+    12,WEEDLE,3,8
+    12,YANMA,3,8
+    1,BULBASAUR,3,8
+    1,ROWLET,3,8
+#-------------------------------
+[079] # Covert Caves
+Cave,4
+    20,GOLETT,16,24
+    19,DRILBUR,16,24
+    18,NOSEPASS,16,24
+    17,MAWILE,16,24
+    17,ROGGENROLA,16,24
+    16,HIPPOPOTAS,16,24
+    16,KLINK,16,24
+    16,MAGNEMITE,16,24
+    16,SANDSHREW,16,24
+    15,DUSKULL,16,24
+    15,SABLEYE,16,24
+    14,CUBONE,16,24
+    14,GLIGAR,16,24
+    14,PHANPY,16,24
+    12,BALTOY,16,24
+    12,ZUBAT,16,24
+    10,GEODUDE,16,24
+    5,ARON,16,24
+    5,ONIX,16,24
+    3,DRAMPA,16,24
+    1,GIBLE,16,24
+    1,LARVITAR,16,24
+    1,SHIELDON,16,24
+#-------------------------------
+[083] # Covert Caves Basement
+Cave,5
+    20,WOOBAT,5
+    18,GRIMER,16,24
+    17,MACHOP,16,24
+    17,MISDREAVUS,16,24
+    17,KOFFING,16,24
+    16,SKORUPI,16,24
+    15,DIGLETT,16,24
+    15,MURKROW,16,24
+    14,SHUPPET,16,24
+    14,PARAS,16,24
+    13,NUMEL,16,24
+    13,DUNSPARCE,16,24
+    12,DEINO,16,24
+    12,VULPIX,16,24
+    11,YUNGOOS,16,24
+    11,TYROGUE,16,24
+    10,MAREANIE,16,24
+    10,SHELLDER,16,24
+    10,SNORUNT,16,24
+    9,DROWZEE,16,24
+    9,TORKOAL,16,24
+    8,PONYTA,16,24
+    1,GIBLE,16,24
+    1,LARVITAR,16,24
+    1,SHIELDON,16,24
