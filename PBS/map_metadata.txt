@@ -398,4 +398,15 @@ MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
 [083]   # Covert Caves Basement
+Name = Covert Caves Basement
 DarkMap = true
+#-------------------------------
+[085]   # Deep Woods
+WildBattleBGM = LabHouse
+TrainerBattleBGM = LabHouse
+#-------------------------------
+[086]   # Deep Woods Haven
+#-------------------------------
+[087]   # Deep Woods Basement
+DarkMap = true
+WildBattleBGM = LabHouse
