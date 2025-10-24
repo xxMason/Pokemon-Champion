@@ -455,3 +455,38 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Ignis]
+Name = Elite Four
+Gender = Male
+BaseMoney = 150
+BattleBGM = Elite Ignis
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Drakeon]
+Name = Elite Four
+Gender = Male
+BaseMoney = 150
+BattleBGM = Elite Drakeon
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Marina]
+Name = Elite Four
+Gender = Male
+BaseMoney = 150
+BattleBGM = Elite Marina
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Nyx]
+Name = Elite Four
+Gender = Female
+BaseMoney = 150
+BattleBGM = Elite Nyx
+VictoryBGM = Battle victory leader
+#-------------------------------
+[CHAMPION_Imanaza]
+Name = Champion
+Gender = Male
+BaseMoney = 150
+BattleBGM = Champion Battle
+VictoryBGM = Battle victory leader
