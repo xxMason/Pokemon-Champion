@@ -6239,9 +6239,3 @@ BackSprite = 3,50
 FrontSprite = 1,17
 ShadowX = 0
 ShadowSize = 1
-#-------------------------------
-[GEOBRO]
-BackSprite = 0,40
-FrontSprite = -2,30
-ShadowX = 0
-ShadowSize = 1
