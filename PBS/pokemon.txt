@@ -1690,7 +1690,7 @@ Category = Psi
 Pokedex = It is rumored that a boy with psychic abilities suddenly transformed into Kadabra while he was assisting research into extrasensory powers.
 Generation = 1
 WildItemUncommon = TWISTEDSPOON
-Evolutions = ALAKAZAM,Trade,
+Evolutions = ALAKAZAM,Item,LINKSTONE
 #-------------------------------
 [ALAKAZAM]
 Name = Alakazam
@@ -1771,7 +1771,7 @@ Category = Superpower
 Pokedex = A belt is worn by a Machoke to keep its overwhelming power under control. Because it is so dangerous, no one has ever removed the belt.
 Generation = 1
 WildItemUncommon = FOCUSBAND
-Evolutions = MACHAMP,Trade,
+Evolutions = MACHAMP,Item,LINKSTONE
 #-------------------------------
 [MACHAMP]
 Name = Machamp
@@ -2011,7 +2011,7 @@ Category = Rock
 Pokedex = They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and huge boulders with thunderous tackles.
 Generation = 1
 WildItemUncommon = EVERSTONE
-Evolutions = GOLEM,Trade,
+Evolutions = GOLEM,Item,LINKSTONE
 #-------------------------------
 [GOLEM]
 Name = Golem
@@ -2492,7 +2492,7 @@ Habitat = Cave
 Category = Gas
 Pokedex = If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.
 Generation = 1
-Evolutions = GENGAR,Trade,
+Evolutions = GENGAR,Item,LINKSTONE
 #-------------------------------
 [GENGAR]
 Name = Gengar
@@ -13724,7 +13724,7 @@ Pokedex = Because its energy was too great to be contained, the energy leaked an
 Generation = 5
 WildItemCommon = EVERSTONE
 WildItemUncommon = HARDSTONE
-Evolutions = GIGALITH,Trade,
+Evolutions = GIGALITH,Item,LINKSTONE
 #-------------------------------
 [GIGALITH]
 Name = Gigalith
@@ -13928,7 +13928,7 @@ Shape = Bipedal
 Category = Muscular
 Pokedex = They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.
 Generation = 5
-Evolutions = CONKELDURR,Trade,
+Evolutions = CONKELDURR,Item,LINKSTONE
 #-------------------------------
 [CONKELDURR]
 Name = Conkeldurr
@@ -18337,7 +18337,7 @@ Shape = HeadArms
 Category = Stump
 Pokedex = These Pokémon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.
 Generation = 6
-Evolutions = TREVENANT,Trade,
+Evolutions = TREVENANT,Item,LINKSTONE
 #-------------------------------
 [TREVENANT]
 Name = Trevenant
@@ -18388,7 +18388,7 @@ Category = Pumpkin
 Pokedex = When taking spirits to the afterlife, small Pumpkaboo prefer the spirits of children to those of adults.
 Generation = 6
 Flags = InheritFormFromMother
-Evolutions = GOURGEIST,Trade,
+Evolutions = GOURGEIST,Item,LINKSTONE
 #-------------------------------
 [GOURGEIST]
 Name = Gourgeist

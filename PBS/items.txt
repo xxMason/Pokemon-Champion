@@ -90,6 +90,16 @@ Price = 1000
 Flags = Fling_30
 Description = A small green shard. It appears to be from some sort of implement made long ago.
 #-------------------------------
+[LINKSTONE]
+Name = Link Stone
+NamePlural = Link Stones
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A peculiar stone that makes certain species of Pokémon evolve. It is colored blue with a link cable pattern.
+#-------------------------------
 [FIRESTONE]
 Name = Fire Stone
 NamePlural = Fire Stones
