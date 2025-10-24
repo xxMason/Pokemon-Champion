@@ -168,7 +168,7 @@ Pokemon = BLISSEY,36
 LoseText = Big Pickaxe Dudes...
 Pokemon = GIBLE,45
 Pokemon = GABITE,47
-Pokemon = SNORLAX,44
+Pokemon = BLISSEY,44
 Pokemon = BLISSEY,42
 #-------------------------------
 [LEADER_Ben,Ben]
