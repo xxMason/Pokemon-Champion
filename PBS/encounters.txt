@@ -117,7 +117,7 @@ LandNight,35
     1,HONCHKROW,50,55
 #-------------------------------
 [087] # Deep Woods Basement
-CaveNight,5
+Cave,5
     80,CUBONE,30,50
     60,BRAMBLEGHAST,40,50
     20,DOUBLADE,40,50
