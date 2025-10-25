@@ -171,6 +171,22 @@ Pokemon = GABITE,47
 Pokemon = BLISSEY,44
 Pokemon = BLISSEY,42
 #-------------------------------
+[CAMPER,TellMeYouLikeIt]
+LoseText = I LOVE IT!!!!!
+Pokemon = BLISSEY,48
+Pokemon = BLISSEY,47
+Pokemon = BLISSEY,48
+Pokemon = BLISSEY,50
+#-------------------------------
+[CAMPER,Buggin]
+LoseText = Thuggin..
+Pokemon = BLISSEY,55
+Pokemon = BLISSEY,55
+Pokemon = BLISSEY,55
+Pokemon = BLISSEY,57
+Pokemon = BLISSEY,58
+Pokemon = BLISSEY,60
+#-------------------------------
 [LEADER_Ben,Ben]
 Items = SUPERPOTION,SUPERPOTION,REVIVE,HYPERPOTION
 LoseText = Even though my pokemon are steel, clearly they weren't hard enough.
