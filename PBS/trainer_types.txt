@@ -490,3 +490,10 @@ Gender = Male
 BaseMoney = 150
 BattleBGM = Champion Battle
 VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADRESEARCHER_Imanaza]
+Name = Lead Researcher
+Gender = Male
+BaseMoney = 300
+BattleBGM = Champion Battle
+VictoryBGM = Battle victory leader
